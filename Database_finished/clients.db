@@ -1,0 +1,3 @@
+id|int|1|2|3|4
+name|string|"Ivan Ivanov"|"Denitsa Dimitrova"|"Krassimir Lefterov"|"Rumena Marinova"
+marital_status|string|"yes"|"yes"|NULL|"no"
